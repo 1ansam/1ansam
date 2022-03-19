@@ -1,4 +1,4 @@
-[![1ansam 的 GitHub 统计数据](https://github-readme-stats.vercel.app/api ?username=1ansam )](https://github.com/1ansam/1ansam)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1ansam&hide=contribs,prs)
 
 <!--
 **1ansam/1ansam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
