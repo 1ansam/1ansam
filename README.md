@@ -1,5 +1,7 @@
+<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1ansam&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1ansam&hide=CMake)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1ansam&hide=CMake)
+
 <!--
 **1ansam/1ansam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
